@@ -1,7 +1,20 @@
 # Gooicons
 Making the world a little more gooey, one icon at a time.
 
+## Installation
+
+```html
+<link rel="stylesheet" href="path/to/gooicons.css">
+```
+
+## Usage
+
+```html
+<i class="gooicon gooicon-ICON"></i>
+```
+
 ## Building Details
+
 We use http://icomoon.io/app/ to construct the font files and CSS needed for the icons.  If you want to generate the font files, simply load the JSON file from this repository into the site and generate.
 
 ## Icon (and To-Do) List
