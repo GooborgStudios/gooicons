@@ -29,4 +29,5 @@ We wouldn't mind having a few extra artists helping out with the production of t
  - Matches the style of the existing icons
  - Is mostly solid, no open icons, please
  - Does not match a request marked with the "wontfix" tag
+ - Does not use a copyright-infinging base
 
