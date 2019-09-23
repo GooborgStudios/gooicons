@@ -27,6 +27,7 @@ To request a new icon, simply create an issue that starts with "Request: " and g
 We wouldn't mind having a few extra artists helping out with the production of the icons.  However, we reserve the right to turn down PRs for any reason.  Generally, we will accept icons that meet the following criteria:
  - Is gooey (which is pretty much given)
  - Matches the style of the existing icons
+ - Does not have sharp corners; only curves
  - Is mostly solid, no open icons, please
  - Does not match a request marked with the "wontfix" tag
  - Does not use a copyright-infinging base
